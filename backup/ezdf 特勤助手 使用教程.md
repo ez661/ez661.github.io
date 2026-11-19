@@ -1,10 +1,8 @@
-# ezdf 特勤助手 使用教程
-
-电脑要求系统Win10，助手在Win10开发，完美适配，右键桌面显示设置，设置分辨率1920\*1080，缩放100%。如果用wegame，退出电脑上登录的QQ。
-
-需要更新助手？更新教程。
+需要更新助手？[更新教程](https://blog.easy661.top/post/21.html)。
 
 需要远程协助？建议软件uu远程，[下载地址](https://uuyc.163.com/)。
+
+电脑要求系统Win10，助手在Win10开发，完美适配，右键桌面显示设置，设置分辨率1920\*1080，缩放100%。如果用wegame，退出电脑上登录的QQ。
 
 <img width="481" height="365" alt="fnzGIono" src="https://github.com/user-attachments/assets/3a662997-9fa4-45d1-8b58-739877cecf26" />
 
