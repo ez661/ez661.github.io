@@ -14,9 +14,9 @@
 
 <img width="615" height="378" alt="Cmk5VtLb" src="https://github.com/user-attachments/assets/e9ba960a-7801-489a-927a-015bb8ef63bd" />
 
-关闭杀毒软件和系统自带杀毒，[关闭教程](https://)。
+关闭杀毒软件和系统自带杀毒，[关闭教程](https://blog.easy661.top/post/22.html)。
 
-<img width="430" height="248" alt="image 2" src="https://github.com/user-attachments/assets/f4dad482-5430-46c5-9fea-ef6953359bc2" />
+<img width="734" height="445" alt="image" src="https://github.com/user-attachments/assets/01240724-ac4e-49c0-bd9c-6e1ad3647a8d" />
 
 如果你是第一次在这个电脑上运行，需要先装驱动，打开drv文件夹。
 
