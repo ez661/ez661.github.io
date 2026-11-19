@@ -10,6 +10,6 @@
 
 <img width="581" height="343" alt="image" src="https://github.com/user-attachments/assets/b42f14be-1064-4ef9-ab0e-71ebc945f39b" />
 
-以管理员身份运行dControl.exe，点关闭即可。
+以管理员身份运行dControl.exe，点停用即可。
 
 <img width="734" height="445" alt="image" src="https://github.com/user-attachments/assets/7fcb8981-f995-4ddf-ac33-ff9913bcff91" />
